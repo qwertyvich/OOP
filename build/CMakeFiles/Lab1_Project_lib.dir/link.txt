@@ -1,0 +1,2 @@
+/usr/bin/ar qc libLab1_Project_lib.a CMakeFiles/Lab1_Project_lib.dir/src/palindrom.cpp.o
+/usr/bin/ranlib libLab1_Project_lib.a

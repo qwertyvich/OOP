@@ -1,0 +1,2 @@
+PalindromeTests 13 0.000147364
+---

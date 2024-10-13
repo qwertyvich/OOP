@@ -1,0 +1,40 @@
+Start testing: Oct 12 18:23 MSK
+----------------------------------------------------------
+1/1 Testing: PalindromeTests
+1/1 Test: PalindromeTests
+Command: "/home/user/oop/lab1/build/run_tests"
+Directory: /home/user/oop/lab1/build
+"PalindromeTests" start time: Oct 12 18:23 MSK
+Output:
+----------------------------------------------------------
+[==========] Running 7 tests from 1 test suite.
+[----------] Global test environment set-up.
+[----------] 7 tests from PalindromeTest
+[ RUN      ] PalindromeTest.Madam
+[       OK ] PalindromeTest.Madam (0 ms)
+[ RUN      ] PalindromeTest.Hello
+[       OK ] PalindromeTest.Hello (0 ms)
+[ RUN      ] PalindromeTest.Empty
+[       OK ] PalindromeTest.Empty (0 ms)
+[ RUN      ] PalindromeTest.A
+[       OK ] PalindromeTest.A (0 ms)
+[ RUN      ] PalindromeTest.ABA
+[       OK ] PalindromeTest.ABA (0 ms)
+[ RUN      ] PalindromeTest.String
+[       OK ] PalindromeTest.String (0 ms)
+[ RUN      ] PalindromeTest.Nums
+[       OK ] PalindromeTest.Nums (0 ms)
+[----------] 7 tests from PalindromeTest (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 7 tests from 1 test suite ran. (0 ms total)
+[  PASSED  ] 7 tests.
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"PalindromeTests" end time: Oct 12 18:23 MSK
+"PalindromeTests" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Oct 12 18:23 MSK
