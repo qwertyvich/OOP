@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main_program.dir/main.cpp.o CMakeFiles/main_program.dir/src/Array.cpp.o CMakeFiles/main_program.dir/src/Figure.cpp.o CMakeFiles/main_program.dir/src/Rectangle.cpp.o CMakeFiles/main_program.dir/src/Square.cpp.o CMakeFiles/main_program.dir/src/Trapezoid.cpp.o -o main_program 
