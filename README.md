@@ -8,7 +8,7 @@
 ### Для запуска
 git clone -b lab3 https://github.com/qwertyvich/OOP.git
 
-cd mkdir
+cd build
 
 cmake ..
 
