@@ -8,6 +8,8 @@
 #### Установка
 ```bash
 git clone -b lab4 https://github.com/qwertyvich/OOP.git
+cd OOP
+git clone https://github.com/google/googletest.git
 mkdir build
 cd build
 cmake ..
