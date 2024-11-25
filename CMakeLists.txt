@@ -1,0 +1,12 @@
+cmake_minimum_required(VERSION 3.20)
+project(Lab3_Project LANGUAGES CXX)
+set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD_REQUIRED ON)
+include_directories(${CMAKE_SOURCE_DIR}/include)
+add_executable(main main.cpp src/CustomMemoryResource.cpp)    
+
+add_subdirectory(googletest)
+add_executable(run_tests tests/Test.cpp src/CustomMemoryResource.cpp) 
+target_link_libraries(run_tests gtest gtest_main)
+enable_testing()
+add_test(NAME Lab5Test COMMAND run_tests)
