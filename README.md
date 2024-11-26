@@ -9,3 +9,14 @@
 
 Контейнер: Однонаправленный список 
 
+#### Установка
+```bash
+git clone -b lab5 https://github.com/qwertyvich/OOP.git
+cd OOP
+git clone https://github.com/google/googletest.git
+mkdir build
+cd build
+cmake ..
+make 
+./run_tests
+```
